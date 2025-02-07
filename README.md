@@ -15,4 +15,4 @@ The main function of the site is to share the meaning of Christmas with friends.
 * [ScrollReveal](https://scrollrevealjs.org/): display page content in animated form
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/ChristmasWebsite/).
+You can view the hosted page by clicking [here](https://christmas22.vercel.app/).
